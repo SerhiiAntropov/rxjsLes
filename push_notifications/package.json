@@ -14,12 +14,12 @@
   "author": "Sergii Antropov",
   "license": "ISC",
   "dependencies": {
-    "@capacitor/android": "^8.3.0",
-    "@capacitor/core": "^8.3.0",
-    "@capacitor/ios": "^8.3.0",
+    "@capacitor/android": "^8.3.1",
+    "@capacitor/core": "^8.3.1",
+    "@capacitor/ios": "^8.3.1",
     "@capacitor/push-notifications": "^8.0.3"
   },
   "devDependencies": {
-    "@capacitor/cli": "^8.3.0"
+    "@capacitor/cli": "^8.3.1"
   }
 }
